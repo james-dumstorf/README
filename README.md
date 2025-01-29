@@ -1,10 +1,10 @@
 # README
 Web page practice about me
+<html>
 <head>
     <title>About Me</title>
 </head>
 <body>
-
     <h1> <hr> HOBBIES </hr> </h1> 
     <p>This section tis to discuss my hobies.</p>
     <p> I have many hobbies that are all tied into varies jobs i have had or are working twoward.
